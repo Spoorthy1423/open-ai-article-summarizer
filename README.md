@@ -1,8 +1,20 @@
-# React + Vite
+# OpenAI Article Summarizer ✨  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GitHub repo size](https://img.shields.io/github/repo-size/Spoorthy1423/open-ai-article-summarizer)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Spoorthy1423/open-ai-article-summarizer)  
+![GitHub issues](https://img.shields.io/github/issues/Spoorthy1423/open-ai-article-summarizer)  
 
-Currently, two official plugins are available:
+## 🚀 Overview  
+The **OpenAI Article Summarizer** is a simple web application that helps users summarize documents using OpenAI's API. It processes pure HTML content and extracts meaningful summaries efficiently.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Features  
+✅ Summarizes articles and documents using OpenAI API  
+✅ Simple HTML-based UI for easy interaction  
+✅ Quick and efficient text processing  
+✅ Uses **RapidAPI** for OpenAI integration  
+
+## ⚡ How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Spoorthy1423/open-ai-article-summarizer.git
+   cd open-ai-article-summarizer
